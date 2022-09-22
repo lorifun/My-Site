@@ -1,0 +1,150 @@
+body{
+margin:0;
+text-align: center;
+background-color: #F8F6F1;
+color:#362706;
+}
+
+h1{
+  width:10%
+  margin:50px auto 0 auto;
+  font-size:5rem;
+  font-family:'Homemade Apple', cursive;
+  color:#562B08;
+}
+
+h2{
+  font-family:'Arvo', serif;
+  font-size:1.6rem;
+  color:#562B08;
+  font-weight: normal;
+  padding: 10px;
+}
+
+h3{
+  font-family:'Courier Prime', monospace;
+  color:#5A7A57;
+}
+
+p{
+  font-family:'Courier Prime', monospace;
+  line-height: 1.5;
+}
+
+hr{
+  border: 5px dotted;
+  border-style:none none dotted;
+  color:#D8D8D8;
+  border-width:5px;
+  width:5%;
+  margin:80px auto;
+}
+
+.profile_photo{
+  width:15%;
+}
+
+.soccer_photo
+{
+ width:25%;
+}
+
+.camera_photo
+{
+ width:25%;
+}
+
+
+.top-container{
+  background-color: #F8F6F1;
+  position:relative;
+  padding-top: 100px;
+}
+
+.web{
+  text-decoration: underline;
+}
+
+.middle-container{
+  margin:90px 0;
+}
+
+.btn {
+  background: #5A7A57;
+  background-image: -webkit-linear-gradient(top, #5A7A57, #A2B38B);
+  background-image: -moz-linear-gradient(top, #5A7A57, #A2B38B);
+  background-image: -ms-linear-gradient(top, #5A7A57, #A2B38B);
+  background-image: -o-linear-gradient(top, #5A7A57, #A2B38B);
+  background-image: linear-gradient(to bottom, #5A7A57, #A2B38B);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  text-shadow: 1px 1px 1px #666666;
+  font-family:'Courier Prime', monospace;
+  color: #F8F6F1;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #562B08;
+  background-image: -webkit-linear-gradient(top, #562B08, #BB9981);
+  background-image: -moz-linear-gradient(top, #562B08, #BB9981);
+  background-image: -ms-linear-gradient(top, #562B08, #BB9981);
+  background-image: -o-linear-gradient(top, #562B08, #BB9981);
+  background-image: linear-gradient(to bottom, #562B08, #BB9981);
+  text-decoration: none;
+}
+
+.footer-link{
+  font-family:'Courier Prime', monospace;
+  color:#876445;
+  margin:20px auto;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+.R{
+  color:#A8896C;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link:hover{
+  color:#F8F6F1;
+}
+
+.cloud_top{
+  position:absolute;
+  top:100px;
+  right:200px;
+}
+
+.cloud_middle{
+  position:absolute;
+  left:150px;
+  bottom:300px;
+}
+
+.hobbies-row{
+  width:50%;
+  margin:60px auto;
+}
+
+.intro{
+  width:40%;
+  margin:30px auto;
+}
+
+
+.bottom-container{
+  background-color:#562B08;
+  color:#876445;;
+  padding: 50px 0 30px;
+}
+
+.contact-message{
+  width:30%;
+  margin:40px auto 60px;
+}
